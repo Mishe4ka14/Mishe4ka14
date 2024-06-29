@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mike and I'm front-end engineer!</h1>
 
-#💫About Me:
+# 💫About Me :
 - Completed a one and a half year course on frontend development at Yandex.Practikum 🔍 <br>
 - Now I'm working on a project for a charity. We are transferring the project from Bitrix to React, Moleculer 🧐<br>
 - I am also coding my pet project of a simple messenger 🔭 <br>
