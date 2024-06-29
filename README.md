@@ -1,12 +1,12 @@
 <div id="coder" align="center">
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="700"/>
 </div>
-<h1 align="center">Hi there, I'm Mike and I'm front-end engineer!</h1>
+<h1 align="center">Hi there, I'm Mike and I'm full-stack engineer!</h1>
 
 # 💫About Me :
 - Completed a one and a half year course on frontend development at Yandex.Practikum 🔍 <br>
 - Now I'm working on a project for a charity. We are transferring the project from Bitrix to React, Moleculer 🧐<br>
-- I am also coding my pet project of a simple messenger 🔭 <br>
+- I am also coding my pet project of a <a href="https://github.com/Mishe4ka14/pet-messenger"> simple messenger </a> 🔭 <br>
 - And continue to study and deepen my skills in React, TypeScript and Node.js 🌱 <br>
 
 ## :hammer_and_wrench: Tech Stack: 
