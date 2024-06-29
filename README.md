@@ -31,9 +31,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishe4ka14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mishe4ka14&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<!--
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Mishe4ka14)](https://github.com/ignacio-cuadra/github-readme-codewars)
-
+-->
 ## 🌐How to reach me :
 <a href="https://t.me/chilovar" target="_blank"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="20px"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhail.semenov98@yandex.ru)
