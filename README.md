@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mike and I'm front-end engineer!</h1>
 
+# About Me:
+🧐Begun my frontend development journey with “JavaScript for Kids: A Playful Introduction to Programming" book by  Nick Morgan”;<br>
+🔍Completed a one and a half year course on frontend development at Yandex.Practikum; <br>
 <!--
 **Mishe4ka14/Mishe4ka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
