@@ -31,7 +31,6 @@
 <a href="https://t.me/chilovar" target="_blank"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="20px"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhail.semenov98@yandex.ru)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mishechka.14)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25835866)
 <!--
 **Mishe4ka14/Mishe4ka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
