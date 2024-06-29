@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Mike and I'm front-end engineer!</h1>
 
 # About Me:
-🧐Begun my frontend development journey with “JavaScript for Kids: A Playful Introduction to Programming" book by  Nick Morgan”;<br>
-🔍Completed a one and a half year course on frontend development at Yandex.Practikum; <br>
+- Completed a one and a half year course on frontend development at Yandex.Practikum 🔍 <br>
+- Now I'm working on a project for a charity. We are transferring the project from Bitrix to React, Moleculer 🧐<br>
+- I am also coding my pet project of a simple messenger 🔭 <br>
+- I continue to study and deepen my skills in React, TypeScript and Node.js 🌱 <br>
+
 <!--
 **Mishe4ka14/Mishe4ka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
