@@ -8,6 +8,7 @@
 - Now I'm working on a project for a charity. We are transferring the project from Bitrix to React, Moleculer 🧐<br>
 - I am also coding my pet project of a <a href="https://github.com/Mishe4ka14/pet-messenger"> simple messenger </a> 🔭 <br>
 - And continue to study and deepen my skills in React, TypeScript and Node.js 🌱 <br>
+- I am currently looking for a job. [Here is my resume](https://github.com/Mishe4ka14/Resume/blob/main/Резюме5.pdf) ⚡ <br>
 
 ## :hammer_and_wrench: Tech Stack: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/scss-%23E0234E.svg?style=for-the-badge&logo=sass&logoColor=white)
@@ -33,12 +34,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mishe4ka14&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/Mishe4ka14/badges/large)](https://www.codewars.com/users/Mishe4ka14)
-<!--
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Mishe4ka14)](https://github.com/ignacio-cuadra/github-readme-codewars)
--->
+
 ## 🌐How to reach me :
-<a href="https://t.me/chilovar" target="_blank"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="20px"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mikhail.semenov98@yandex.ru)
+mikhail.semenov98@yandex.ru <br>
+<a href="https://t.me/chilovar" target="_blank"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="20px"/></a> <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mishechka.14)
 
 <img src="https://komarev.com/ghpvc/?username=Mishe4ka14&style=flat-square"/>
