@@ -31,7 +31,7 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishe4ka14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mishe4ka14&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mishe4ka14)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/Mishe4ka14/badges/large)](https://www.codewars.com/users/Mishe4ka14)
 
