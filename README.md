@@ -28,11 +28,6 @@
 
 [![codewars](https://www.codewars.com/users/Mishe4ka14/badges/large)](https://www.codewars.com/users/Mishe4ka14)
 
-## 🌐How to reach me :
-mikhail.semenov98@yandex.ru <br>
-<a href="https://t.me/chilovar" target="_blank"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="20px"/></a> <br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mishechka.14)
-
 <img src="https://komarev.com/ghpvc/?username=Mishe4ka14&style=flat-square"/>
 <!--
 **Mishe4ka14/Mishe4ka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
